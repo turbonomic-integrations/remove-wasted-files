@@ -1,0 +1,18 @@
+# Vim swap files.
+*.swp
+
+# macOS metadata files.
+.DS_Store
+
+# Test Data.
+*.csv
+sample_data/
+
+# Credential files.
+*.xml
+
+# Local backups.
+*bkp*
+
+# Log files.
+*.log
